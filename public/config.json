@@ -1,0 +1,12 @@
+{
+  "dataApiHostName": "TestSuisseAPICenter01.data.westeurope.azure-apicenter.ms/workspaces/default",
+  "title": "API portal",
+  "authentication": {
+    "clientId": "c368f983-15fe-4be6-9ead-1c0f212894a3",
+    "tenantId": "09537380-81d1-4f1a-b6fb-4547169fa5f1",
+    "scopes": [
+      "https://azure-apicenter.net/user_impersonation"
+    ],
+    "authority": "https://login.microsoftonline.com/"
+  }
+}
